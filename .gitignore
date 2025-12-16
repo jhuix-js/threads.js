@@ -11,4 +11,5 @@ test-tooling/webpack/dist/
 test/workers/*.js
 .DS_Store
 Thumbs.db
+package-lock.json
 *.log
